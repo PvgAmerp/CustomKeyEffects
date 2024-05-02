@@ -1,0 +1,1 @@
+Hi and welcome to Custom Key Effects! You can create an effect either by using the 'Interface.pyw' script or create one at the effects folder manually. Then, open 'start.py'. Also remember to remove the brackets when you paste a path. Hope you enjoy! don't forget to use this to troll hehe
